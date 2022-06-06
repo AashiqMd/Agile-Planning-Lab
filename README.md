@@ -13,3 +13,5 @@ Execution plan
 * Lab 6: Move stories from In Progress to Done
 * Lab 7: Setup a Burndown Chart for Your Plan
 * Lab 8: End of Sprint Activities
+
+Have a look at the Zenhub tab to see the stories which were created, updated, modiified, moved through the entire lifecycle until completion.
